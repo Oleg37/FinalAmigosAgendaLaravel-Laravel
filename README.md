@@ -1,4 +1,4 @@
-# FinalAmigosAgendaLaravel-Laravel
+# Final AmigosAgendaLaravel-Laravel
 Proyecto de recuperación -> Número 3 (Laravel)
 
 ## Contiene:
